@@ -1,7 +1,7 @@
 module.exports = {
   'development': {
     "secret": "bd17ddffc6694d25834a99ac2708a498",
-    "database": "mongodb://localhost:27017/skeleton",
+    "database": "mongodb://localhost:27017/dipper",
     "siteUrl": "http://localhost:3000",
     "email": {
       "from": "s26c.sayan@gmail.com",
